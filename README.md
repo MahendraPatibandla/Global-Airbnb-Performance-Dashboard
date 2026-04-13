@@ -87,7 +87,7 @@ The primary goal of this project is to answer key business questions such as:
 
 ```
 📦 Global-Airbnb-Dashboard
- ┣ 📊 Airbnb Dashboard.pbix
+ ┣ 📊 Airbnb Dashboard.pdf
  ┣ 📄 README.md
 ```
 
